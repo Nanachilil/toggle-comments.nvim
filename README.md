@@ -12,8 +12,10 @@ This video shows Toggle-comments demo:
 return {
     "nanachilil/toggle-comments.nvim",
     opts = {
-		symbol = "// ",
-		pattern = "^%s*// ",     
+        cpp = {
+            symbol = "// ",
+            pattern = "^%s*// ",
+        },
     }
 }
 
