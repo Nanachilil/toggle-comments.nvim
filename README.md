@@ -3,7 +3,8 @@ Toggle-comments is a Neovim plugin to quickly comment and uncomment selected lin
 
 ## 1 Toggle-comments show:
 This video shows Toggle-comments demo:
-<video src="https://raw.githubusercontent.com/Nanachilil/resources/main/toggle-comments.nvim/videos/demo.mp4" controls width="100%"></video>
+![功能演示](https://raw.githubusercontent.com/Nanachilil/resources/main/toggle-comments.nvim/videos/demo.gif)
+
 
 ## 2 Quickly use
 `lazyvim`:
