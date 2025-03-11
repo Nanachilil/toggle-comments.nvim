@@ -1,5 +1,5 @@
 # Toggle-comments.nvim
-Toggle-comments is a Neovim plugin to quickly comment and uncomment selected lines.
+Toggle-comments is a Neovim plugin to quickly toggle comments.
 
 ## 1 Toggle-comments show:
 This video shows Toggle-comments demo:
